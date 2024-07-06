@@ -43,7 +43,7 @@ This project implements the classic game of Tetris using a Neopixel LED strip an
 
 - **Hardware:** two Arduino UNOs, noepixel LED strip (109 LEDs), OLED Display, 5V supply (eg. SMPS)
 - **Software:** Arduino IDE 
-- **Additional Requirements:** 3D-printer, five Push tactile buttons, Acrylic fiber sheet, bread board or PCB, Sub-board/Cardboard.
+- **Additional Requirements:** 3D-printer, five Push tactile buttons, Acrylic fiber sheet, bread board or PCB, Sun-board/Cardboard.
 
 ## Setup
 
